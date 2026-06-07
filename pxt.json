@@ -1,0 +1,24 @@
+{
+    "name": "Herói da Floresta",
+    "description": "O jogador controla um aventureiro que precisa atravessar uma floresta cheia de monstros para encontrar um tesouro mágico.\nAo avançar, os inimigos ficam mais fortes e mais rápidos\n",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.0.14",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
